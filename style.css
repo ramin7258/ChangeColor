@@ -1,0 +1,21 @@
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.button-list {
+  padding: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border: 1px solid crimson;
+  color: rgb(247, 26, 26);
+}
+h1 {
+  color: white;
+}
+body {
+  background-color: black;
+}
